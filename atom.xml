@@ -4,7 +4,7 @@
   <title><![CDATA[Girl iOS World]]></title>
   <link href="http://GirliOS.github.io/atom.xml" rel="self"/>
   <link href="http://GirliOS.github.io/"/>
-  <updated>2014-03-06T20:34:15+08:00</updated>
+  <updated>2014-03-06T20:49:24+08:00</updated>
   <id>http://GirliOS.github.io/</id>
   <author>
     <name><![CDATA[GirliOS]]></name>
@@ -12,5 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Girl iOS]]></title>
+    <link href="http://GirliOS.github.io/blog/2014/03/06/hello-girl-ios/"/>
+    <updated>2014-03-06T20:47:06+08:00</updated>
+    <id>http://GirliOS.github.io/blog/2014/03/06/hello-girl-ios</id>
+    <content type="html"><![CDATA[<p>测试字体如何？
+  你到底好不好，快把我烦死了！！！
+  呵呵</p>
+
+<pre><code>呵呵  呵呵
+</code></pre>
+]]></content>
+  </entry>
   
 </feed>
