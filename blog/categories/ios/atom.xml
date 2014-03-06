@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Girl iOS World]]></title>
-  <link href="http://GirliOS.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: iOS | Girl iOS World]]></title>
+  <link href="http://GirliOS.github.io/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://GirliOS.github.io/"/>
   <updated>2014-03-06T21:27:16+08:00</updated>
   <id>http://GirliOS.github.io/</id>
