@@ -4,7 +4,7 @@
   <title><![CDATA[Girl iOS World]]></title>
   <link href="http://GirliOS.github.io/atom.xml" rel="self"/>
   <link href="http://GirliOS.github.io/"/>
-  <updated>2014-03-07T14:34:56+08:00</updated>
+  <updated>2014-03-07T14:37:13+08:00</updated>
   <id>http://GirliOS.github.io/</id>
   <author>
     <name><![CDATA[GirliOS]]></name>
@@ -18,9 +18,10 @@
     <link href="http://GirliOS.github.io/blog/2014/03/07/chun-tian-lai-liao/"/>
     <updated>2014-03-07T14:06:40+08:00</updated>
     <id>http://GirliOS.github.io/blog/2014/03/07/chun-tian-lai-liao</id>
-    <content type="html"><![CDATA[<blockquote><p>不知不觉春天已然来到了，是时候动起来，生机盎然了~</p></blockquote>
+    <content type="html"><![CDATA[<p>  <img src="http://GirliOS.github.io/images/7.jpg" alt="" /></p>
 
-<p>  <img src="http://GirliOS.github.io/images/7.jpg" alt="hello" /></p>
+<pre><code>   不知不觉春天已然来到了，是时候动起来，生机盎然了~   
+</code></pre>
 ]]></content>
   </entry>
   
