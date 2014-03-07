@@ -3,7 +3,9 @@ layout: post
 title: "新的开始"
 date: 2014-03-06 20:47:06 +0800
 comments: true
-categories:  
+categories:
+published: false
+  
 ---
 
 
