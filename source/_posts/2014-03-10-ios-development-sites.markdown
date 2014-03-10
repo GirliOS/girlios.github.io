@@ -12,11 +12,13 @@ categories: iOS
 &emsp;2.CS193p，视频学习的首选教程  
 &emsp;&emsp;[CS193p iPhone Application Development](http://www.stanford.edu/class/cs193p/cgi-bin/drupal/)  
 &emsp;3.英文学习网站  
-&emsp;&emsp; *[Google](http://www.google.com) (有问题，找谷歌)  
-&emsp;&emsp; *[Github](https://github.com)  (源码，直观且易学)  
-&emsp;&emsp; *[Stackoverflow](http://stackoverflow.com) (你遇到的程序问题，基本都在这里)       
-&emsp;&emsp; *[Raywenderlich](http://www.raywenderlich.com) (墙裂推荐@.@)  
-&emsp;&emsp;  [objc.io](http://www.objc.io) (深度解读Objective-C)    
+&emsp;&emsp; [Google](http://www.google.com) (有问题，找谷歌)  
+&emsp;&emsp; [Github](https://github.com)  (源码，直观且易学)  
+&emsp;&emsp; [Stackoverflow](http://stackoverflow.com) (你遇到的程序问题，基本都在这里)       
+&emsp;&emsp; [Raywenderlich](http://www.raywenderlich.com) (墙裂推荐@.@)  
+&emsp;&emsp; [objc.io](http://www.objc.io) (深度解读Objective-C)  
+&emsp;&emsp; [NSHipster](http://nshipster.com) (a journal of the overlooked bits in Objective-C and Cocoa.)  
+&emsp;&emsp; [Think&Build](http://www.thinkandbuild.it) (Tutorials about OS X,iOS and web development)     
 &emsp;4.中文博客(大多为微博大牛的博客)  
 &emsp;&emsp; [唐巧的技术博客](http://blog.devtang.com) (拥有深厚功力者,京城iOS一哥@唐巧)  
 &emsp;&emsp; [破船之家](http://beyondvincent.com) (iOS文章绝对高产者，据说跑起马拉松也是在程序员中首屈一指@BeyondVincent)  
