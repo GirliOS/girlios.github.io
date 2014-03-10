@@ -4,7 +4,7 @@
   <title><![CDATA[Girl iOS World]]></title>
   <link href="http://GirliOS.github.io/atom.xml" rel="self"/>
   <link href="http://GirliOS.github.io/"/>
-  <updated>2014-03-10T14:17:50+08:00</updated>
+  <updated>2014-03-10T17:53:15+08:00</updated>
   <id>http://GirliOS.github.io/</id>
   <author>
     <name><![CDATA[GirliOS]]></name>
@@ -20,7 +20,31 @@
     <id>http://GirliOS.github.io/blog/2014/03/10/ios-development-sites</id>
     <content type="html"><![CDATA[<p>&emsp;&emsp;学习iOS开发有一段时间了，虽然还处于迷茫期，但相比以前的小白痴状态，现在还是蛮有改观的。期间接触了一些很好的网站和博客，现在摘录下来，就当建个索引，没事的时候来喝杯茶，学点技术，提高下自己。<br/>
 &emsp;1.iOS的麦加圣地<br/>
-&emsp;&emsp;<a href="https://developer.apple.com/devcenter/ios/index.action">iOS Dev Center</a></p>
+&emsp;&emsp;<a href="https://developer.apple.com/devcenter/ios/index.action">iOS Dev Center</a><br/>
+&emsp;2.CS193p，视频学习的首选教程<br/>
+&emsp;&emsp;<a href="http://www.stanford.edu/class/cs193p/cgi-bin/drupal/">CS193p iPhone Application Development</a><br/>
+&emsp;3.英文学习网站<br/>
+&emsp;&emsp; <em><a href="http://www.google.com">Google</a> (有问题，找谷歌)<br/>
+&emsp;&emsp; </em><a href="https://github.com">Github</a>  (源码，直观且易学)<br/>
+&emsp;&emsp; <em><a href="http://stackoverflow.com">Stackoverflow</a> (你遇到的程序问题，基本都在这里)     <br/>
+&emsp;&emsp; </em><a href="http://www.raywenderlich.com">Raywenderlich</a> (墙裂推荐@.@)<br/>
+&emsp;&emsp;  <a href="http://www.objc.io">objc.io</a> (深度解读Objective-C)  <br/>
+&emsp;4.中文博客(大多为微博大牛的博客)<br/>
+&emsp;&emsp; <a href="http://blog.devtang.com">唐巧的技术博客</a> (拥有深厚功力者,京城iOS一哥@唐巧)<br/>
+&emsp;&emsp; <a href="http://beyondvincent.com">破船之家</a> (iOS文章绝对高产者，据说跑起马拉松也是在程序员中首屈一指@BeyondVincent)<br/>
+&emsp;&emsp; <a href="http://onevcat.com">OneV&rsquo;s Den</a> (喵神,隐居樱花之国，躬耕于上乘游戏之作@onevcat)<br/>
+&emsp;&emsp; <a href="http://blog.t-xx.me">txx&rsquo;s blog</a> (虾神，出任上市CTO不是梦@糖炒小虾_txx)<br/>
+&emsp;&emsp; <a href="http://iosinit.com">iOS init</a> (如果你对objc.io的文章情有独钟，Come here@方一雄)<br/>
+&emsp;&emsp; <a href="http://www.ios-wiki.com">iOS Wiki</a> (iOS资讯期刊 @吴发伟Ted)<br/>
+&emsp;&emsp; <a href="http://yingkong1987.github.io">yingkong1987 iOS Dev Blog</a> (给我很多帮助的兔子@兔be南玻1)<br/>
+&emsp;&emsp; <a href="http://blog.xcodev.com">Xcode Dev</a> (资深iOS开发工程师@谌启亮) <br/>
+&emsp;&emsp; <a href="http://www.isaced.com">isaced</a> (iOS Programmer@isaced) <br/>
+&emsp;&emsp; <a href="http://answerhuang.duapp.com">answer_huang</a> (iOS developer, Python fans@answer-huang) <br/>
+&emsp;&emsp; <a href="http://blog.cocoabit.com">Cocoabit</a> (iOS 码农，攻城狮。喜欢各种有意思的东西。@6david9) <br/>
+&emsp;&emsp; <a href="http://geeklu.com">Luke&rsquo;s Homepage|卢克</a> (Mac，iOS开发@卢小克)<br/>
+&emsp;&emsp; <a href="http://blog.csdn.net/ysy441088327">余书懿</a> (代表作:&lt;豆豆音乐> @余书懿)<br/>
+&emsp;&emsp; <a href="http://wangling.me">Creator of moke</a> (Creator of 墨客(moke.com) and Voodo(moke.com/voodo)@an00na)<br/>
+&emsp;&emsp; <a href="http://iiiyu.com">萧宸宇</a> (注定漂泊的人@Sumi-iYu)</p>
 ]]></content>
   </entry>
   
