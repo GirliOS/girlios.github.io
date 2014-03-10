@@ -16,7 +16,8 @@ categories: iOS
 &emsp;&emsp; [Github](https://github.com)  (源码，直观且易学)  
 &emsp;&emsp; [Stackoverflow](http://stackoverflow.com) (你遇到的程序问题，基本都在这里)       
 &emsp;&emsp; [Raywenderlich](http://www.raywenderlich.com) (墙裂推荐@.@)  
-&emsp;&emsp; [objc.io](http://www.objc.io) (深度解读Objective-C)  
+&emsp;&emsp; [objc.io](http://www.objc.io) (深度解读Objective-C)   
+-----more-----   
 &emsp;&emsp; [NSHipster](http://nshipster.com) (a journal of the overlooked bits in Objective-C and Cocoa.)  
 &emsp;&emsp; [Think&Build](http://www.thinkandbuild.it) (Tutorials about OS X,iOS and web development)     
 &emsp;4.中文博客(大多为微博大牛的博客)  
