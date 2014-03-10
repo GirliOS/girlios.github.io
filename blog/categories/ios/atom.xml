@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: iOS | Girl iOS World]]></title>
+  <link href="http://GirliOS.github.io/blog/categories/ios/atom.xml" rel="self"/>
+  <link href="http://GirliOS.github.io/"/>
+  <updated>2014-03-10T14:17:50+08:00</updated>
+  <id>http://GirliOS.github.io/</id>
+  <author>
+    <name><![CDATA[GirliOS]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[iOS development sites]]></title>
+    <link href="http://GirliOS.github.io/blog/2014/03/10/ios-development-sites/"/>
+    <updated>2014-03-10T13:40:57+08:00</updated>
+    <id>http://GirliOS.github.io/blog/2014/03/10/ios-development-sites</id>
+    <content type="html"><![CDATA[<p>&emsp;&emsp;学习iOS开发有一段时间了，虽然还处于迷茫期，但相比以前的小白痴状态，现在还是蛮有改观的。期间接触了一些很好的网站和博客，现在摘录下来，就当建个索引，没事的时候来喝杯茶，学点技术，提高下自己。<br/>
+&emsp;1.iOS的麦加圣地<br/>
+&emsp;&emsp;<a href="https://developer.apple.com/devcenter/ios/index.action">iOS Dev Center</a></p>
+]]></content>
+  </entry>
+  
+</feed>

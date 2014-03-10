@@ -4,7 +4,7 @@
   <title><![CDATA[Girl iOS World]]></title>
   <link href="http://GirliOS.github.io/atom.xml" rel="self"/>
   <link href="http://GirliOS.github.io/"/>
-  <updated>2014-03-10T14:14:47+08:00</updated>
+  <updated>2014-03-10T14:17:50+08:00</updated>
   <id>http://GirliOS.github.io/</id>
   <author>
     <name><![CDATA[GirliOS]]></name>
@@ -14,23 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Ios Development Sites]]></title>
+    <title type="html"><![CDATA[iOS development sites]]></title>
     <link href="http://GirliOS.github.io/blog/2014/03/10/ios-development-sites/"/>
-    <updated>2014-03-10T00:00:00+08:00</updated>
+    <updated>2014-03-10T13:40:57+08:00</updated>
     <id>http://GirliOS.github.io/blog/2014/03/10/ios-development-sites</id>
-    <content type="html"><![CDATA[<hr />
-
-<p>layout: post
-title: &ldquo;iOS development sites&rdquo;
-date: 2014-03-10 13:40:57 +0800
-comments: true
-categories: iOS</p>
-
-<hr />
-
-<p>&emsp;&emsp;学习iOS开发有一段时间了，虽然还处于迷茫期，但相比以前的小白痴状态，现在还是蛮有改观的。期间接触了一些很好的网站和博客，现在摘录下来，就当建个索引，没事的时候来喝杯茶，学点技术，提高下自己。<br/>
+    <content type="html"><![CDATA[<p>&emsp;&emsp;学习iOS开发有一段时间了，虽然还处于迷茫期，但相比以前的小白痴状态，现在还是蛮有改观的。期间接触了一些很好的网站和博客，现在摘录下来，就当建个索引，没事的时候来喝杯茶，学点技术，提高下自己。<br/>
 &emsp;1.iOS的麦加圣地<br/>
-&emsp;&emsp;<img src="https://developer.apple.com/devcenter/ios/index.action" alt="iOS Dev Center" /></p>
+&emsp;&emsp;<a href="https://developer.apple.com/devcenter/ios/index.action">iOS Dev Center</a></p>
 ]]></content>
   </entry>
   
