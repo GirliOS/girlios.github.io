@@ -34,7 +34,11 @@ categories: iOS
 &emsp;&emsp; [Luke's Homepage|卢克](http://geeklu.com) (Mac，iOS开发@卢小克)  
 &emsp;&emsp; [余书懿](http://blog.csdn.net/ysy441088327) (代表作:<豆豆音乐> @余书懿)  
 &emsp;&emsp; [Creator of moke](http://wangling.me) (Creator of 墨客(moke.com) and Voodo(moke.com/voodo)@an00na)  
-&emsp;&emsp; [萧宸宇](http://iiiyu.com) (注定漂泊的人@Sumi-iYu)  
+&emsp;&emsp; [萧宸宇](http://iiiyu.com) (注定漂泊的人@Sumi-iYu)   
+&emsp;&emsp; [webfrogs' Homepage](http://webfrogs.me) (iOS开发，开源爱好者 @webfrogs)  
+&emsp;&emsp; [Esoft Mobile](http://esoftmobile.com) (iOS开发者 esoftmobile.com @TracyYih)  
+&emsp;&emsp; [无网不剩](http://blog.leezhong.com) (iOS开发@李忠)  
+ 
 
 
 
