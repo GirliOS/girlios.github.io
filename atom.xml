@@ -4,7 +4,7 @@
   <title><![CDATA[Girl iOS World]]></title>
   <link href="http://GirliOS.github.io/atom.xml" rel="self"/>
   <link href="http://GirliOS.github.io/"/>
-  <updated>2014-03-10T20:27:43+08:00</updated>
+  <updated>2014-03-17T00:47:26+08:00</updated>
   <id>http://GirliOS.github.io/</id>
   <author>
     <name><![CDATA[GirliOS]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Enrolling in Apple Developer Programs]]></title>
+    <link href="http://GirliOS.github.io/blog/2014/03/16/enrolling-in-apple-developer-programs/"/>
+    <updated>2014-03-16T23:48:21+08:00</updated>
+    <id>http://GirliOS.github.io/blog/2014/03/16/enrolling-in-apple-developer-programs</id>
+    <content type="html"><![CDATA[<p>&emsp;&emsp;前几天在一家公司里，由于从零开始做iOS开发，我负责申请开发者账号，于是熟悉了下$99企业账号的申请。虽然因为公司决定不上马APP项目而把我辞掉了，而我却学会了如何去申请，也算是一种收获吧~<br/>
+&emsp;&emsp;No.1 点击<a href="https://developer.apple.com/programs/ios/">这里</a>进入注册界面，点击下一步。 <br/>
+&emsp;&emsp;<img src="http://GirliOS.github.io/images/enroll.png" alt="Enroll" /><br/>
+&emsp;&emsp;No.2 从下面的图中可以看到需要四个必要条件：<br/>
+&emsp;&emsp; <em>建立此账号的公司许可(此条可忽略)  <br/>
+&emsp;&emsp; </em>公司地址<br/>
+&emsp;&emsp; <em>邓白氏码<br/>
+&emsp;&emsp; </em>一张支持外币支付的信用卡<br/>
+&emsp;&emsp;<img src="http://GirliOS.github.io/iamges/enrollneed.png" alt="Enrollneed" />  <br/>
+&emsp;&emsp;No.3 填写你的基本信息,点击下一步  <br/>
+&emsp;&emsp;<img src="http://GirliOS.github.io/iamges/accountinfo.png" alt="accountinfo" /><br/>
+&emsp;&emsp;No.4 申请邓白氏码<br/>
+&emsp;&emsp;<img src="http://GirliOS.github.io/iamges/dnus.png" alt="D-U-N-S" /><br/>
+&emsp;&emsp;<br/>
+&emsp;&emsp;填写下面的表格，均用英语填写<br/>
+&emsp;&emsp;<img src="http://GirliOS.github.io/images/dunsinfo.png" alt="DUNSinfo" /><br/>
+&emsp;&emsp;填写完后，点击Continus后，会出现两种情况
+&emsp;&emsp; <em>列出几个公司任你选择，一般是名字和你公司相近的公司，出现这种情况后，修改你的公司名，会出现下面的情况<br/>
+&emsp;&emsp; </em>显示你的公司还未注册邓白氏码，点击下一步<br/>
+&emsp;&emsp;No.5 过几个小时后，他们会给你邮箱发一封下面的邮件，证明你申请注册邓白氏码，1-2天后，会有021开头的电话往你填写的公司电话打电话确认你注册的公司信息是否正确(完全免费)。确认后，会给你邮箱发送邓白氏码~<br/>
+&emsp;&emsp;No.6 填写公司信息和邓白氏码后，点击Continue<br/>
+&emsp;&emsp;<img src="http://GirliOS.github.io/images/orgainfo.png" alt="orgainfo" /><br/>
+&emsp;&emsp;No.7 苹果审核后，会给你发邮件告知<br/>
+&emsp;&emsp;No.8 通知你付款<br/>
+&emsp;&emsp;No.9 付款成功后，会发给你激活邮件，大功告成！哈哈哈哈哈哈哈哈@.@ <br/>
+&emsp;&emsp;关于整个流程的时间：一到三周.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[iOS development sites]]></title>
